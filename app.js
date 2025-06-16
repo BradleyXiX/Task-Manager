@@ -19,5 +19,4 @@ app.use('/api/v1/tasks', tasks)
 // app.delete('/api/v1/task/:id') - delete task
 
 const port = 3000
-
 app.listen(port, console.log(`server is listening on port ${port}`))

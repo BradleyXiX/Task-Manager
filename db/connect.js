@@ -1,0 +1,1 @@
+const connectionString = mongodb+srv://BradleyXiX:<db_password>@cluster0.gv7c9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
